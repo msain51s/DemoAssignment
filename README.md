@@ -1,19 +1,20 @@
-# Ny News
+# NyTime News Article
 
-Getting the News Article form ny server using Restful Api.
+Hit Restful API for getting News Article from Ny Server
 
 ## Getting Started
 
-*MVVM Architecture: In MVVM, ViewModel exposes streams of events to which the Views can bind to. Like this, the ViewModel does not need to hold a reference to the View anymore, like the Presenter is. This also means that all the interfaces that the MVP pattern requires, are now dropped.
+*MVVM Architecture: MVVM is one of the architectural patterns which enhances separation of concerns, it allows separating the user interface logic from the business logic and best part of this architecture is the ViewModel does not need to hold a reference to the View anymore. 
 
-*Android Databinding: Part of Android Jetpack, is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
+*Rx.Java :- RxJava is a Java based implementation of Reactive Programming.In this project it is used for networking call asynchronously.
+
+*Live Data :- LiveData is an observable data holder class.Advantage of using this are :1.No memory leaks 2.No memory leaks 3.No more manual lifecycle handling 4.Sharing resources etc.          
 
 *Dependancy Injection(Daggar2):- Dagger is a fully static, compile-time dependency injection framework for both Java and Android. It is an adaptation of an earlier version created by Square and now maintained by Google. 
 
-*Android JUNIT4: Build local unit Test cases.
+*Android JUNIT4: It is responsible for build local JUnit Test cases.
 
-*Retrofit- For n/w calling using okhttp client.
-
+*Retrofit- It is an API for getting network call using Client like OkHTTP etc.
 
 
 ### Prerequisites
@@ -43,18 +44,19 @@ Build the project.
 
 ##  Test
 
-Test Cases for the NyNewsActivity class and adaptor.
+JUnit & Functional Test cases are writen for all the modules in the project. 
 
  
 ### Sonarqube report
 
- (https://drive.google.com/file/d/1J2nEBO45PvmFYR9eqKVqdUXALVszeske/view?usp=sharing)
- (https://drive.google.com/file/d/1nEsvK027fTEFVL5Bl3mOULk6ZK6i6eX3/view?usp=sharing) 
+Sonarqube report of the project are given on the below link
+
+ (https://drive.google.com/file/d/1WyMMK1e2dj-Kd_s42qTDkt58XmPPvJmw/view?usp=sharing)
+ (https://drive.google.com/file/d/1xFxwsWsjw3ZGF37_BadB9Krv8HWbVaYr/view?usp=sharing) 
 
 
 ## Authors
 
-* **Ashish Singh** - *Complete work* - [AshishSingh](https://github.com/Ashishsingh009)
+* **Manoj Kumar Sain** - *Complete work* - [Manoj Sain](https://github.com/msain51s)
  
-
 
