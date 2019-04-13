@@ -6,7 +6,7 @@ Hit Restful API for getting News Article from Ny Server
 
 *MVVM Architecture: MVVM is one of the architectural patterns which enhances separation of concerns, it allows separating the user interface logic from the business logic and best part of this architecture is the ViewModel does not need to hold a reference to the View anymore. 
 
-*Rx.Java :- RxJava is a Java based implementation of Reactive Programming.In this project it is used for networking call asynchronously.
+*Rx.Java :- RxJava is a Java based implementation of Reactive Programming.In this project it is used for performing network call asynchronously.
 
 *Live Data :- LiveData is an observable data holder class.Advantage of using this are :1.No memory leaks 2.No memory leaks 3.No more manual lifecycle handling 4.Sharing resources etc.          
 
