@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoAssignment</string>
+
+    <string name="section">Magazine</string>
+    <string name="transitionName">viewTransition</string>
+    <string name="list_title">ArticleList</string>
+    <string name="detail_title">Artile Detail</string>
+</resources>
