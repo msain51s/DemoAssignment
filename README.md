@@ -12,7 +12,11 @@ Hit Restful API for getting News Article from Ny Server
 
 *Dependancy Injection(Daggar2):- Dagger is a fully static, compile-time dependency injection framework for both Java and Android. It is an adaptation of an earlier version created by Square and now maintained by Google. 
 
-*Android JUNIT4: It is responsible for build local JUnit Test cases.
+*Mockito :- It is used for mocking the dependency during the Test cases.
+
+*Android JUNIT4 :- It is responsible for build local JUnit Test cases.
+
+*Espresso :- It is responsible for build Function/Instrumentation/UI Test cases.
 
 *Retrofit- It is an API for getting network call using Client like OkHTTP etc.
 
