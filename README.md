@@ -1,6 +1,6 @@
 # Ny News
 
-Getting the feeds form ny server using Restful Api.
+Getting the News Article form ny server using Restful Api.
 
 ## Getting Started
 
